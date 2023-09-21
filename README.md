@@ -11,7 +11,3 @@
 ## Languages
 
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seme30)](https://github.com/Seme30/github-readme-stats)
-
-## Stats
-- [![Stats](https://github-readme-streak-stats.herokuapp.com?user=Seme30)
-- [![Stats](https://github-readme-stats.vercel.app/api?username=Seme30)
