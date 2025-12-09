@@ -2,7 +2,6 @@
 - 🔭 anything related with Native Android, Website design and development
 - 🌱 Kotlin Android, Jetpack compose, React JS, and NextJS
 - 👯 looking to collaborate on anything related to tech
-- 📫 You can reach me at: [https://t.me/Seme304](https://t.me/Seme304) 
 - mail me at: semahegn.adugna1@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=Seme30&color=blueviolet)
